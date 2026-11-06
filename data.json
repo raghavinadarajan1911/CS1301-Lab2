@@ -1,0 +1,26 @@
+
+{
+    "chart_title": "Comparing Frog Species",
+    "data_points": [
+        {
+            "label": "Red-eyed Tree Frog",
+            "value": 6
+        },
+        {
+            "label": "American Bullfrog",
+            "value": 15
+        },
+        {
+            "label": "Wood Frog",
+            "value": 6
+        },
+        {
+            "label": "Golden Poison Frog",
+            "value": 5
+        },
+        {
+            "label": "African Clawed Frog",
+            "value": 12
+        }
+    ]
+}
