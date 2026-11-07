@@ -15,7 +15,7 @@ st.title("🐸 Frog Data Collection Lab 02")
 # COURSE INFORMATION
 st.header("CS 1301")
 
-st.subheader("Web Development - Section X")
+st.subheader("Web Development - Section D")
 
 st.subheader("Raghavi")
 
